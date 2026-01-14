@@ -1,2 +1,2 @@
 text
-marge_text
+merge_text
